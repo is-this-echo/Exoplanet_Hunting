@@ -13,7 +13,7 @@ Link to dataset -> [NASA labelled-time series-data](https://www.kaggle.com/keple
 - Plotted gaussian histogram of the data 
 - Scaled and Normalized the data for ease of training 
 - Performed PCA to retain variance upto 98.8% (with 15 columns/features out of 3190 columns) 
-- Used SMOTE for resmapling the data accounting for highly imbalanced data, creating synthetic samples of the minority class label 
+- Used SMOTE for resampling the data accounting for highly imbalanced data, creating synthetic samples of the minority class label 
 - Fitting of the model using SVM(SV Classifier) and Random Forest algorithms 
 - Performed cross-validation, generated accuracy measure, classification & confusion matrices (around 98% accurate prediction results)
 
