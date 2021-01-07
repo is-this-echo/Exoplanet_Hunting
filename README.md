@@ -3,7 +3,7 @@ Finding exoplanets in space using ML.
 
 *The model was trained on data(which are basially flux values of starlight w.r.t time about which an exoplanet revolves) collected using the **Transit method**, which detects the drop in intensity of starlight when the exoplanet(if hosted) blocks the light reaching the telescope.*
 
-Link to dataset [NASA labelled-time series-data](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data).
+Link to dataset -> [NASA labelled-time series-data](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data).
 
 
   
